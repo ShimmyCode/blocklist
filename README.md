@@ -1,4 +1,5 @@
 blocklist for browser video games.
+
 adding more websites since the previous blocklist is not maintained anymore
 previous blocklist：https://github.com/IREK-szef/games-blocklist
 
